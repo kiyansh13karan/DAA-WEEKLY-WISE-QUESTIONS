@@ -15,17 +15,17 @@ void findCommonElements(int arr1[], int m, int arr2[], int n) {
             j++ ;
         }
         else if(arr1[i] < arr2[j]) {
-            i++;
+            i++ ;
         }
         else {
-            j++;
+            j++ ;
         }
     }
 
     if (!found)
-        cout << "None";
+        cout << "None" ;
     
-    cout << endl;
+    cout << endl ;
 }
 
 int main() {
