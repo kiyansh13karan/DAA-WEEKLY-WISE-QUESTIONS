@@ -1,3 +1,9 @@
+/*
+ Youhavebeengiventwosortedintegerarraysofsizemandn.
+ Designanalgorithmand implement it usingaprogramto find list of
+ elements which are common to both. (Time Complexity = O(m+n))
+*/
+
 #include <iostream>
 using namespace std;
 
