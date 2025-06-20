@@ -1,10 +1,11 @@
 # Design and Analysis of Algorithms (DAA) Solutions
 
 ## Student Information
-- **Name:** Karan Nayal  
-- **Course:** B.Tech Computer Science and Engineering  
-- **Student ID:** 23011638  
-- **Contact:** karannayalkannu1982@gmail.com  
+- **Name :** Karan Nayal  
+- **Course :** B.Tech Computer Science and Engineering  
+- **Student ID :** 23011638  
+- **Contact :** karannayalkannu1982@gmail.com
+- **Institute :** Graphic Era Hill University , Bhimtal  
 
 ## About This Repository
 This repository contains my solutions to the weekly programming assignments for the Design and Analysis of Algorithms (DAA) course. Each week's folder contains the problem statements and my implementations in C++.
